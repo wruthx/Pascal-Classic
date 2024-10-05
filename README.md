@@ -4,4 +4,4 @@ Classic simple games like hangman, tetris and snake built in Pascal for fun.
 
 
 ## Author
-**Oleh Mruchko** - [olezhkoistaken](https://github.com/olezhkoistaken) AKA [crabinaryx](https://github.com/crabinaryx)
+**Oleh Mruchko** - [olezhkoistaken](https://github.com/olezhkoistaken) AKA [wruthx](https://github.com/wruthx)
