@@ -1,5 +1,6 @@
 # Pascal-Classic
 Classic simple games like hangman, tetris and snake built in Pascal for fun.
+Hangman is in Finnish for fun lol.
 ![](images/git-preview.gif)
 
 
